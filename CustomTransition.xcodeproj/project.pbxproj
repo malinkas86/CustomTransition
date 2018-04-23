@@ -18,6 +18,7 @@
 		7009EB972088F54900AAD68B /* AnimationType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7009EB962088F54900AAD68B /* AnimationType.swift */; };
 		7009EB99208D118000AAD68B /* RotateAndScaleAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7009EB98208D118000AAD68B /* RotateAndScaleAnimator.swift */; };
 		7009EB9B208E325600AAD68B /* Animator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7009EB9A208E325600AAD68B /* Animator.swift */; };
+		7009EB9D208E8AF600AAD68B /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7009EB9C208E8AF600AAD68B /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		7009EB962088F54900AAD68B /* AnimationType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationType.swift; sourceTree = "<group>"; };
 		7009EB98208D118000AAD68B /* RotateAndScaleAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateAndScaleAnimator.swift; sourceTree = "<group>"; };
 		7009EB9A208E325600AAD68B /* Animator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animator.swift; sourceTree = "<group>"; };
+		7009EB9C208E8AF600AAD68B /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		7009EB7B2088286E00AAD68B /* CustomTransition */ = {
 			isa = PBXGroup;
 			children = (
+				7009EB9C208E8AF600AAD68B /* demo.gif */,
 				7009EB7C2088286E00AAD68B /* AppDelegate.swift */,
 				7009EB7E2088286E00AAD68B /* FirstViewController.swift */,
 				7009EB802088286E00AAD68B /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7009EB9D208E8AF600AAD68B /* demo.gif in Resources */,
 				7009EB872088286E00AAD68B /* LaunchScreen.storyboard in Resources */,
 				7009EB842088286E00AAD68B /* Assets.xcassets in Resources */,
 				7009EB822088286E00AAD68B /* Main.storyboard in Resources */,
